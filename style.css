@@ -1,0 +1,21 @@
+*{
+    background-color: #0B0B61;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.header-top {
+    padding: 15px 0;
+  }
+  
+  @media (max-width: 767px) {
+    .header-top {
+      padding: 15px 0;
+    }
+  }
+.Inicio{
+    background: url(img1.jpg) no-repeat center/contain;
+    background-size: cover;
+}
+
